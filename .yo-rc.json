@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ea2sa.book"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "microservice",
+    "baseName": "Book",
+    "packageName": "com.ea2sa.book",
+    "packageFolder": "com/ea2sa/book",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZmFmZGQxNmI0N2M4ZDMwZWYzYjAyMTU4MDhhOTMxZGI4NTdhZjhmN2NjZTUxMjkwZTFhNzNiZTE4YzlkYTZmNzYzMzdmOGEwZGNmMDM3MzRkMzY5MDg1ODE4ZjQ0NzFjMGI4MDk4YTBlMTkxZGQ3NDQ3ZTJkMGNhYzQyZTUyNDk=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1599779237998,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
